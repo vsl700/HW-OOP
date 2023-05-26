@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\HW-OOP\bin\Debug\HW-OOP.exe.config
+C:\Users\Asus\source\repos\HW-OOP\bin\Debug\HW-OOP.exe
+C:\Users\Asus\source\repos\HW-OOP\bin\Debug\HW-OOP.pdb
+C:\Users\Asus\source\repos\HW-OOP\obj\Debug\HW-OOP.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\HW-OOP\obj\Debug\HW-OOP.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\HW-OOP\obj\Debug\HW-OOP.exe
+C:\Users\Asus\source\repos\HW-OOP\obj\Debug\HW-OOP.pdb
